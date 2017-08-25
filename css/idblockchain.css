@@ -405,13 +405,22 @@ header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 #global-header .block h1 {
+  font-family: 'Terminator', sans-serif;
   font-weight: 100;
   font-size: 45px;
-  letter-spacing: 6px;
-  padding-bottom: 15px;
-  margin-top: 0;
-  text-transform: capitalize;
-  font-family: "Terminator";
+  line-height: 60px;
+  letter-spacing: 10px;
+  padding-bottom: 45px;
+  color:#67D970;
+}
+
+#slider .block h1 {
+  font-family: 'Terminator', sans-serif;
+  font-weight: 100;
+  font-size: 45px;
+  line-height: 60px;
+  letter-spacing: 10px;
+  padding-bottom: 45px;
   color:#67D970;
 }
 #global-header .block p {
