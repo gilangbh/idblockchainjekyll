@@ -138,6 +138,7 @@ header .navbar-default .navbar-nav li a:hover {
   color:#67D970;
 }
 #slider .block p {
+  margin-top:50px;
   font-size: 23px;
   line-height: 40px;
   font-family: 'Roboto', sans-serif;
@@ -812,7 +813,7 @@ h1 {
 	footer Start
 --*/
 footer {
-  background: #F5F5F5;
+  background: #001123;
   text-align: center;
   padding-top: 48px;
   padding-bottom: 55px;
@@ -820,10 +821,10 @@ footer {
 footer p {
   font-size: 13px;
   line-height: 25px;
-  color: #919191;
+  color: #fff;
 }
 footer a {
-  color: #595959;
+  color: #67D970;
 }
 footer .footer-manu {
   padding-bottom: 25px;
@@ -838,10 +839,10 @@ footer .footer-manu ul li {
 }
 footer .footer-manu ul li a {
   display: inline-block;
-  color: #494949;
+  color: #67D970;
 }
 footer .footer-manu ul li a:hover {
-  color: #000;
+  color: #00B8B8;
 }
 
 .fb_iframe_widget,
