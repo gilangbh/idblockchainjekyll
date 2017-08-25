@@ -406,11 +406,10 @@ header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 #global-header .block h1 {
-  font-family: 'Terminator', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: 100;
   font-size: 45px;
   line-height: 60px;
-  letter-spacing: 10px;
   padding-bottom: 45px;
   color:#67D970;
 }
