@@ -32,7 +32,7 @@ $(document).ready(function(){
 		var map;
 		function initMap() {
 		  map = new google.maps.Map(document.getElementById('map'), {
-		    center: {lat: -34.397, lng: 150.644},
+		    center: {lat: -6.2264196, lng: 106.7994802},
 		    zoom: 8
 		  });
 		}
